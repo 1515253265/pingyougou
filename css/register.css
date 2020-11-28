@@ -1,0 +1,154 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 82px;
+    border-bottom: 2px solid #b1191b;
+}
+
+.logo {
+    padding-top: 20px;
+}
+
+.registerarea {
+    height: 520px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+
+.registerarea h3 {
+    height: 40px;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    line-height: 40px;
+    padding: 0 10px;
+    font-weight: 400;
+}
+
+.registerarea h3 em {
+    float: right;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.registerarea h3 a {
+    font-size: 14px;
+    color: red;
+}
+
+.reg_form {
+    width: 600px;
+    height: 400px;
+    margin: 40px auto 0;
+}
+
+.reg_form li {
+    margin-bottom: 10px;
+}
+
+.reg_form label {
+    display: inline-block;
+    width: 100px;
+    height: 36px;
+    line-height: 36px;
+    text-align: right;
+}
+
+.inp {
+    width: 238px;
+    height: 34px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+}
+
+.error {
+    color: #df3033;
+    margin-left: 10px;
+}
+
+.error_icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background: url(../img/error.png) no-repeat;
+    margin-top: -2px;
+}
+
+.success {
+    color: green;
+    margin-left: 10px;
+}
+
+.success_icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background: url(../img/success.png) no-repeat;
+    margin-top: -2px;
+}
+
+.safe {
+    padding-left: 187px;
+    color: #b2b2b2;
+}
+
+.safe em {
+    padding: 0 12px;
+    color: #fff;
+}
+
+.ruo {
+    background-color: green;
+}
+
+.zhong {
+    background-color: greenyellow;
+}
+
+.qiang {
+    background-color: red;
+}
+
+
+/* 协议同意 */
+
+.agree {
+    padding-left: 100px;
+    margin-top: 20px;
+}
+
+.agree input {
+    vertical-align: middle;
+    background-color: #ccc;
+    margin-right: 5px;
+}
+
+.agree a {
+    color: #1ba1e6;
+}
+
+.over {
+    width: 200px;
+    height: 34px;
+    background-color: #b1191b;
+    border: none;
+    color: #ffffff;
+    margin: 50px 0 0 100px;
+}
+
+.footer {
+    height: 180px;
+    text-align: center;
+}
+
+.mod_copyright_links {
+    margin: 10px 0;
+}
+
+.mod_copyright_links a {
+    margin: 10px;
+}
